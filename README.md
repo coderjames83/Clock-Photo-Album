@@ -1,54 +1,60 @@
-<header>
+# Clock Photo Frame iOS App
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+> Transform your (idle) device into a smart photo frame and clock, showcasing cherished memories and practical time information.
 
-# GitHub Pages
+## ✨ Features
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+This elegant application seamlessly blends a photo frame with a clock, offering the following key features:
 
-</header>
+### 🖼️ Intelligent Photo Display
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+* Supports selecting multiple photos from your albums.
+* Automatically cycles through chosen photos.
+* Offers both random and sequential playback modes.
+* Employs the Fisher-Yates shuffle algorithm and a weighting system for balanced and truly random photo display.
 
-## Step 1: Enable GitHub Pages
+### 🕰️ Exquisite Clock Display
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+* Multiple time formats (HH:MM, HH:MM:SS).
+* Various date formats (YYYY/MM/DD, MM/DD, YYYY/MM/DD Day of Week).
+* Automatic adaptation to different display styles based on English or Chinese language settings. *(Note: While the README is English-only, mentioning this feature is relevant)*
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+### 💡 Smart Switching Functionality
 
-### :keyboard: Activity: Enable GitHub Pages
+* Allows setting specific time ranges for automatic clock display.
+* Defines start and end times to automatically switch to clock mode within the designated period.
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+### ⚙️ Personalized Settings
 
-<footer>
+* Adjustable photo transition speeds (fast, medium, slow).
+* Selectable photo display modes (fill or fit).
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+## 🔑 Keywords
+
+Photo frame, Clock, Slideshow, Photo Album, Memory Clock, Clock with photo display
+
+## 🚀 Download & Installation
+
+You can download the app from the Apple App Store:
+
+* **[Link to App Store - Coming Soon!]** ## 🤝 Contributing
+
+(Optional: Add contribution guidelines here if your project is open source. If not, you can state that contributions are not currently sought or simply omit this section.)
+
+We welcome contributions! Please see `CONTRIBUTING.md` (if you create one) for details on how to help.
+
+## 📄 License
+
+(Optional: Specify your project's license here. E.g., MIT, Apache 2.0, or "All Rights Reserved" / "Proprietary" if it's closed source.)
+
+[Example: This project is licensed under the MIT License.]
+
+## 📧 Contact
+
+(Optional: Provide contact information for support or feedback.)
+
+If you have any questions, feedback, or issues, please feel free to reach out via [Your Contact Email/Method] or by opening an issue in this repository.
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+Remember to replace the placeholder content, especially the screenshot links, the App Store link, and potentially the License and Contributing sections based on your project's status.
