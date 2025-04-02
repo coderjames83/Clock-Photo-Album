@@ -35,26 +35,9 @@ Photo frame, Clock, Slideshow, Photo Album, Memory Clock, Clock with photo displ
 
 ## 🚀 Download & Installation
 
-You can download the app from the Apple App Store:
-
-* **[Link to App Store - Coming Soon!]** ## 🤝 Contributing
-
-(Optional: Add contribution guidelines here if your project is open source. If not, you can state that contributions are not currently sought or simply omit this section.)
-
-We welcome contributions! Please see `CONTRIBUTING.md` (if you create one) for details on how to help.
-
-## 📄 License
-
-(Optional: Specify your project's license here. E.g., MIT, Apache 2.0, or "All Rights Reserved" / "Proprietary" if it's closed source.)
-
-[Example: This project is licensed under the MIT License.]
+You can download the app from the Apple App Store
 
 ## 📧 Contact
 
-(Optional: Provide contact information for support or feedback.)
+If you have any questions, feedback, or issues, please feel free to reach out by opening an issue in this repository.
 
-If you have any questions, feedback, or issues, please feel free to reach out via [Your Contact Email/Method] or by opening an issue in this repository.
-
----
-
-Remember to replace the placeholder content, especially the screenshot links, the App Store link, and potentially the License and Contributing sections based on your project's status.
