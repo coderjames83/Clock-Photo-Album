@@ -1,4 +1,7 @@
-# Clock Photo Frame iOS App
+# Photo Frame X iOS App
+
+> Previously released as Clock Photo Album. The repository name and path are
+> retained so existing links continue to work.
 
 > Transform your (idle) device into a smart photo frame and clock, showcasing cherished memories and practical time information.
 
@@ -39,5 +42,6 @@ You can download the app from the Apple App Store
 
 ## 📧 Contact
 
-If you have any questions, feedback, or issues, please feel free to reach out by opening an issue in this repository.
-
+For support, privacy questions, or feedback, contact
+**jameszhang.apps.support@proton.me**. You may also open an issue in this
+repository for technical discussion.

@@ -1,53 +1,62 @@
-# Privacy Policy for Clock Photo Album iOS App
+# Privacy Policy for Photo Frame X
 
-**Effective date:** April 1, 2025
+**Formerly released as Clock Photo Album**
 
-Thank you for using the Clock Photo Album iOS application (the "App"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our App.
+**Effective date:** August 23, 2026
 
-**We want to be clear and upfront: Our App does not collect, store, transmit, or share any personal data or personally identifiable information from its users.**
+Photo Frame X (the “App”) turns an iPhone or iPad into a clock and digital photo
+frame. This policy explains what information the App handles and what remains
+under your control.
 
-## Information Collection and Use
+## Summary
 
-The Clock Photo Album app is designed with your privacy as a priority. We do **not** collect any information that can be used to identify you ("Personal Data").
+We do not operate a server for the App, collect personal information for our
+own purposes, sell information, or share it with advertisers. Photos selected
+in the App stay on your device. Apple’s services, including the App Store and
+StoreKit, are governed by Apple’s own terms and privacy policy.
 
-* **Photos and Albums:** The App requires access to your photo library solely to allow you to select photos for display within the App on your device. Your photos are processed locally on your device only. We do not view, upload, collect, or store your photos or access your photo library metadata.
-* **Usage Data:** The App does not collect any information on how you use the App (e.g., features used, session duration).
-* **Device Information:** The App does not collect any information about your device (e.g., device model, operating system version, unique device identifiers).
+## Photos and local storage
 
-Since we do not collect any data, we do not use it for any purpose, including advertising, analytics, or sharing with third parties.
+- The App requests photo access only when you select photos for the frame.
+- On import, the App creates optimized JPEG copies and a small manifest in its
+  private app sandbox so it can display and order the slideshow efficiently.
+  Any required photo metadata is kept in that local app data.
+- The App does not upload those photos or local metadata to a server operated
+  by us, and we do not receive or review them.
+- Removing a photo from the App removes the App-managed copy and manifest entry;
+  it does not delete the original from Apple Photos.
+- If iOS or iCloud Backup includes the App’s sandbox data, that backup is
+  controlled by your Apple settings and Apple’s applicable policies.
 
-## Log Data
+## Purchases
 
-The App itself does not generate or collect any Log Data. Standard, non-personally identifiable information might be collected by Apple as part of the App Store's standard operations and crash reporting (if enabled by the user at the OS level), which is governed by Apple's own privacy policy. We do not have access to this data in a way that identifies individual users.
+The App uses Apple StoreKit for optional in-app purchases. Apple processes the
+payment and account details; the App does not receive your card or billing
+credentials. The App receives the transaction and entitlement status needed to
+unlock purchased features, and does not send that status to a server operated
+by us. Apple’s privacy policy applies to Apple account and payment processing.
 
-## Cookies
+## Analytics, advertising, and tracking
 
-Cookies are files with a small amount of data, commonly used as anonymous unique identifiers. These are typically sent to your browser from websites you visit.
+The App contains no third-party analytics or advertising SDKs, user accounts,
+behavioral tracking, or advertising identifiers. We do not maintain an
+analytics or advertising service for the App. System diagnostics or crash data
+that Apple collects under your device settings are handled by Apple.
 
-This App does **not** use "cookies" or similar tracking technologies.
+## Permissions and retention
 
-## Service Providers
+You can review or revoke photo access in iOS Settings. App-managed photo copies
+and their manifest remain in the App sandbox until you remove them in the App or
+delete the App. Uninstalling the App removes its sandbox data according to iOS
+behavior. The App does not intentionally collect data from children.
 
-We do **not** employ any third-party companies or individuals ("Service Providers") to facilitate our App, provide the App on our behalf, perform App-related services, or assist us in analyzing how our App is used, as no data collection or analysis takes place.
+## Changes to this policy
 
-## Security
+We may update this policy when the App’s data practices change. The effective
+date above will be updated when a revised policy is posted.
 
-Since the App does not collect, store, or transmit your data, your information (such as the photos you select) resides solely on your local device under the security measures provided by Apple's iOS operating system.
+## Contact
 
-## Links to Other Sites
+Questions about this policy or the App can be sent to:
 
-Our App does **not** contain links to other sites that are not operated by us.
-
-## Children's Privacy
-
-Our App does not address anyone under the age of 13 ("Children"). In compliance with the Children's Online Privacy Protection Act (COPPA), we do not knowingly collect any personally identifiable information from anyone, including children under 13. As our App collects **no data whatsoever**, it inherently does not collect any information from children.
-
-## Changes to This Privacy Policy
-
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page or potentially through an update description on the App Store.
-
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
-
-## Contact Us
-
-If you have any questions about this Privacy Policy, please contact us:
+**jameszhang.apps.support@proton.me**
