@@ -1,47 +1,60 @@
-# Photo Frame X iOS App
+# Tabletop: Flip Clock & Photos
 
-> Previously released as Clock Photo Album. The repository name and path are
-> retained so existing links continue to work.
+> Previously released as **Photo Frame X** and **Clock Photo Album**. The
+> repository name and path are retained so existing links keep working.
 
-> Transform your (idle) device into a smart photo frame and clock, showcasing cherished memories and practical time information.
+Tabletop turns an iPhone or iPad into a full-screen desk clock — and, if you
+want, puts your own photos behind it. Prop the device on a desk, a nightstand,
+or a charging stand and leave it running.
 
-## ✨ Features
+## Six clock faces
 
-This elegant application seamlessly blends a photo frame with a clock, offering the following key features:
+| Face | |
+|---|---|
+| **Minimal** | Quiet and unadorned |
+| **Bold** | Readable across the room |
+| **Nixie** | Warm glow, least blue light |
+| **Segment** | Seven-segment, unlit strokes visible |
+| **Analog** | Swept second hand, date window |
+| **Flip** | Split-flap cards |
 
-### 🖼️ Intelligent Photo Display
+Every face works with or without photos, in portrait and in landscape, on both
+iPhone and iPad.
 
-* Supports selecting multiple photos from your albums.
-* Automatically cycles through chosen photos.
-* Offers both random and sequential playback modes.
-* Employs the Fisher-Yates shuffle algorithm and a weighting system for balanced and truly random photo display.
+## Clock options
 
-### 🕰️ Exquisite Clock Display
+- 12-hour or 24-hour
+- Time shown as `HH:MM` or `HH:MM:SS`
+- Date shown as year/month/day, month/day, year/month/day with weekday, or hidden
+- Five tints: Match Face, White, Amber, Crimson, Emerald
+- The small clock banner shown over photos can be hidden
+- Option to keep the screen awake while the app is in front
 
-* Multiple time formats (HH:MM, HH:MM:SS).
-* Various date formats (YYYY/MM/DD, MM/DD, YYYY/MM/DD Day of Week).
-* Automatic adaptation to different display styles based on English or Chinese language settings. *(Note: While the README is English-only, mentioning this feature is relevant)*
+## Photos
 
-### 💡 Smart Switching Functionality
+- Photos are added through the **system photo picker**. The app does not request
+  access to your photo library — the picker runs outside the app and hands back
+  only the photos you choose.
+- Photos are shown **whole**, never cropped to fill the screen.
+- Slideshow advances every 5, 30, or 60 seconds.
+- Play in a random order or in the order you added them.
+- The clock can switch to a photo-free view automatically during a time range
+  you set — for example, overnight.
 
-* Allows setting specific time ranges for automatic clock display.
-* Defines start and end times to automatically switch to clock mode within the designated period.
+## Privacy
 
-### ⚙️ Personalized Settings
+Photos you select stay on your device. There is no server operated by us, no
+account, no analytics or advertising SDK, and no tracking.
 
-* Adjustable photo transition speeds (fast, medium, slow).
-* Selectable photo display modes (fill or fit).
+Full details: [Privacy Policy](Privacy%20Policy.md)
 
-## 🔑 Keywords
+## Download
 
-Photo frame, Clock, Slideshow, Photo Album, Memory Clock, Clock with photo display
+Available on the App Store: <https://apps.apple.com/app/id6743531611>
 
-## 🚀 Download & Installation
+## Contact
 
-You can download the app from the Apple App Store
+For support, privacy questions, or feedback:
+**jameszhang.apps.support@proton.me**
 
-## 📧 Contact
-
-For support, privacy questions, or feedback, contact
-**jameszhang.apps.support@proton.me**. You may also open an issue in this
-repository for technical discussion.
+You may also open an issue in this repository for technical discussion.
